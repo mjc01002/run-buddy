@@ -80,12 +80,17 @@ section {
   }
   /* Hero Style End */
 
+  .hero-cta {
+   
+  
+  }
   .hero-form {
-    background-color: #fce138;
+    background-color: #fce238ab;
     padding: 20px;
     width: 500px;
     color: #024e76;
     border: solid 3px #024e76;
+    border-radius: 5%;
     position: absolute;
     bottom: 120px;
     right: 140px;
